@@ -1,4 +1,6 @@
 # 基于VOC数据训练的Mask R-CNN和Sparse R-CNN目标检测模型
+## 官方开源库
+`https://github.com/open-mmlab/mmdetection`
 ## 项目简介
 利用MMdetection的开源框架Mask R-CNN和Sparse R-CNN，用VOC2007数据集来进行训练，实现目标检测和实例分割功能
 ## 安装与依赖
